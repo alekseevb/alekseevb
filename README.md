@@ -49,7 +49,7 @@
 ###
 
 <p align="left"> 
-  <a href="https://www.github.com/alekseevb" target="_blank" rel="noreferrer"> 
+  <a href="https://vk.com/a.l.e.xseev" target="_blank" rel="noreferrer"> 
       <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" height="36" />
   </a> 
 
