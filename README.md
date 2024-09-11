@@ -66,6 +66,5 @@
 
 ###
 
-<a href="http://www.github.com/alekseevb">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?          user=alekseevb&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&  dates=000000&hide_border=true" />
+<a href="http://www.github.com/alekseevb"><img src="https://github-readme-streak-stats.herokuapp.com/?          user=alekseevb&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
 </a>
