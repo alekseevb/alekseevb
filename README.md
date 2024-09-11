@@ -50,8 +50,11 @@
 
 <p align="left"> 
   <a href="https://www.github.com/alekseevb" target="_blank" rel="noreferrer"> 
-      <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" height="32" />
+      <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" height="36" />
   </a> 
+
+<img width="12" />
+  
   <a href="http://www.instagram.com/a.l.e.xseev" target="_blank" rel="noreferrer"> 
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
