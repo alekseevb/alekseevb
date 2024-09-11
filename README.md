@@ -53,14 +53,10 @@
       <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" height="36" />
   </a> 
 
-<img width="12" />
+<img width="6" />
   
-  <a href="http://www.instagram.com/a.l.e.xseev" target="_blank" rel="noreferrer"> 
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32" /> 
-        </picture> 
+  <a href="http://www.instagram.com/@a_lexseev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/354443/telegram.svg" height="36" /> 
       </a>
 </p>
 
