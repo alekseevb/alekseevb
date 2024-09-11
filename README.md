@@ -55,7 +55,7 @@
 
 <img width="6" />
   
-  <a href="http://www.instagram.com/@a_lexseev" target="_blank" rel="noreferrer"> 
+  <a href="https://t.me/@a_lexseev" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354443/telegram.svg" height="36" /> 
       </a>
 </p>
