@@ -101,6 +101,8 @@
   <a href="https://t.me/a_lexseev" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354443/telegram.svg" height="36" /> 
       </a>
+
+    <strong>Почта</strong> a_lexseev@bk.ru
 </p>
 
 ### 
