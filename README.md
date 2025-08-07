@@ -36,6 +36,10 @@
   </a>
   <img width="12" />
   <a target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg" height="36" alt="javascript logo"  />
+  </a>
+  <img width="12" />
+  <a target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/styledcomponents/styledcomponents-original.svg" height="36" alt="javascript logo"  />
   </a>
   <img width="12" />
