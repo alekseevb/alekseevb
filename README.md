@@ -102,7 +102,7 @@
         <img src="https://www.svgrepo.com/show/354443/telegram.svg" height="36" /> 
       </a>
 
-    <strong>Почта</strong> a_lexseev@bk.ru
+    <strong>Почта<strong/> a_lexseev@bk.ru
 </p>
 
 ### 
